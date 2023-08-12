@@ -1,0 +1,4 @@
+- Read the pragramtic programmer's `tracer bullet` part
+- It said, 'Tracer bullet helps the shooter's re-arranging and it is more practical than sophisticated arranging before shoot the bullet. Because It is a realtime feedback and the cost is low'
+- Furthermore, the authors said 'Develop your software using a fast, visible, and iterable helpers and make priority the requirements of your system' in the last part
+- I think the rich test suits fits with the helpers they said.
